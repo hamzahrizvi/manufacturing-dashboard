@@ -129,23 +129,6 @@ SPC and alert logic all have realistic signals to detect.
 
 ---
 
-## Skills demonstrated
-
-- Data simulation and pipeline design in Python (pandas, numpy)
-- SQL analytical modelling: window functions, gaps-and-islands, views
-- Manufacturing KPI logic: OEE, cycle time, SPC control limits
-- Power BI data modelling, DAX measures, and interactive report design
-- End-to-end reproducibility (one command rebuilds everything)
-
----
-
-## Possible extensions
-
-- Real-time ingestion via **MQTT / OPC UA** instead of batch generation
-- Swap SQLite for **PostgreSQL** and schedule the pipeline (Airflow / cron)
-- Add anomaly detection on sensor streams (rolling z-score / isolation forest)
-- Shift-level reporting and email/Teams alert delivery
-
 ---
 
 ## License
