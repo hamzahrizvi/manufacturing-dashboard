@@ -12,8 +12,8 @@ in SQL, and visualises them in an interactive Power BI report.
 
 ## Power BI report
 
-![Power BI dashboard](<img width="1600" height="863" alt="image" src="https://github.com/user-attachments/assets/7451b852-5d17-4455-8ea3-2d7d82866100" />
-)
+<img width="1600" height="863" alt="image" src="https://github.com/user-attachments/assets/7451b852-5d17-4455-8ea3-2d7d82866100" />
+
 
 An interactive Power BI report built on the exported data: KPI cards, OEE trend
 by machine, downtime Pareto, OEE component breakdown, an SPC control chart, and
