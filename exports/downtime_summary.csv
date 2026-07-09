@@ -1,0 +1,4 @@
+machine_id,stoppages,total_downtime_min,avg_stoppage_min,longest_stoppage_min
+CNC-01,11,273,24.8,43
+PRESS-01,8,220,27.5,45
+CNC-02,10,172,17.2,32

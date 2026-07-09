@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Keep the repo runnable: sample outputs are committed so reviewers can
+# see results without running anything. Uncomment below if you prefer a
+# lean repo and expect users to run `python run_all.py` themselves.
+# data/*.csv
+# data/*.db
+# exports/*.csv
